@@ -1,6 +1,6 @@
-# SandeepSinghHub
+# AgentNovaX
 
-Welcome to **SandeepSinghHub**, a platform offering innovative tools and utilities to simplify everyday tasks. Whether you're a student, professional, or entrepreneur, we provide user-friendly, efficient solutions designed to boost productivity and streamline your workflow.
+Welcome to **SandeepSinghHub**, a central platform with innovative, AI-driven tools designed to simplify tasks and boost productivity. Whether you're a student, professional, or entrepreneur, our forward-thinking community empowers users to innovate, automate, and achieve more with smart solutions.
 
 ## Features
 
